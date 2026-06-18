@@ -6,6 +6,8 @@ and have it **absorbed into a local, searchable library**: title, author,
 description, tags, and the **transcript**. Then ask Claude (or use the CLI) to
 search and reuse it later.
 
+> 📋 For the full project history, decisions, and status, see **[HANDOFF.md](HANDOFF.md)**.
+
 Two ways to drive it:
 
 1. **Fully automatic** — run the Telegram bot once. From your phone you just
