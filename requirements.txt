@@ -1,0 +1,6 @@
+# Core runtime dependency — handles all the platform extraction/downloading.
+yt-dlp>=2024.0.0
+
+# Optional: local, offline transcription when a video has no captions.
+# Install with:  pip install faster-whisper
+# faster-whisper>=1.0.0

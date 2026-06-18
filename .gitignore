@@ -1,0 +1,27 @@
+# Secrets / config
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.pytest_cache/
+
+# Library media — keep the searchable text/metadata, ignore heavy binaries.
+library/**/*.mp4
+library/**/*.mkv
+library/**/*.webm
+library/**/*.m4a
+library/**/*.mp3
+library/**/*.wav
+library/**/*.jpg
+library/**/*.png
+library/**/*.webp
+library/**/*.vtt
+library/**/*.srt
+library/.telegram_offset
